@@ -9,13 +9,13 @@ The Library Application is a web-based platform that allows users to explore and
 ## Features
 
 - Search for books by title, author, genre, publisher, or description.
-- Apply filters to narrow down search results based on authors, genres, and publishers.
+- Apply filters to narrow search results based on authors, genres, and publishers.
 - View detailed information about each book, including the cover image, author, genre, publisher, description, and price.
 
 
 ## Technologies Used
 
-- React: A JavaScript library for building user interfaces.
+- React:  A JavaScript library for building user interfaces.
 - Material-UI: A popular UI framework for React applications.
 - CSS: Styling and layout of the application.
 - Unit Testing: Jest and React Testing Library for testing components and functionalities.
@@ -33,10 +33,8 @@ git clone https://github.com/your-username/library-application.git
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+### `npm test`
 
 Testing
-Unit tests have been implemented to ensure the functionality of the search, filter, and accordion behavior. To run the tests:
-
-npm test
+Unit tests have been implemented to ensure the functionality of the search and filter To run the tests:
