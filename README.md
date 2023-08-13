@@ -11,6 +11,7 @@ The Library Application is a web-based platform that allows users to explore and
 - Search for books by title, author, genre, publisher, or description.
 - Apply filters to narrow search results based on authors, genres, and publishers.
 - View detailed information about each book, including the cover image, author, genre, publisher, description, and price.
+- For Cover Images, I have used the Unsplash random API which gives random images.
 
 
 ## Technologies Used
